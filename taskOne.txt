@@ -1,0 +1,61 @@
+Here is a set of basic programming exercises to practice.
+1. Write a Java program to enter two numbers and find their sum.
+2. Write a Java program to enter two numbers and perform all arithmetic operations.
+3. Write a Java program to enter length and breadth of a rectangle and find its perimeter.
+4. Write a Java program to enter length and breadth of a rectangle and find its area.
+5. Write a Java program to enter radius of a circle and find its diameter, circumference and
+area.
+6. Write a Java program to enter length in centimeter and convert it into meter and kilometer.
+7. Write a Java program to enter temperature in °Celsius and convert it into °Fahrenheit.
+8. Write a Java program to enter temperature in Fahrenheit(°F) and convert it into Celsius(°C)
+9. Write a Java program to convert days into years, weeks and days.
+10. Write a Java program to find power of any number x ^ y.
+11. Write a Java program to enter any number and calculate its square root.
+12. Write a Java program to enter two angles of a triangle and find the third angle.
+13. Write a Java program to enter base and height of a triangle and find its area.
+14. Write a Java program to calculate area of an equilateral triangle.
+15. Write a Java program to enter marks of five subjects and calculate total, average and
+percentage.
+16. Write a Java program to enter P, T, R and calculate Simple Interest.
+17. Write a Java program to enter P, T, R and calculate Compound Interest.
+--------------------------------------------------------------------------------------
+
+ Write a Java program to input marks of five subjects Physics, Chemistry, Biology,
+Mathematics and Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+------------------------------------
+
+VSet of programming exercises based on loops to practice.
+1. Write a Java program to print all natural numbers from 1 to n. - using while loop
+2. Write a Java program to print all natural numbers in reverse (from n to 1). - using while loop
+3. Write a Java program to print all alphabets from a to z. - using while loop
+4. Write a Java program to print all even numbers between 1 to 100. - using while loop
+5. Write a Java program to print all odd number between 1 to 100.
+6. Write a Java program to find sum of all natural numbers between 1 to n.
+7. Write a Java program to find sum of all even numbers between 1 to n.
+8. Write a Java program to find sum of all odd numbers between 1 to n.
+9. Write a Java program to print multiplication table of any number.
+10. Write a Java program to count number of digits in any number.
+11. Write a Java program to find first and last digit of any number. 
+12. Write a Java program to find sum of first and last digit of any number.
+13. Write a Java program to swap first and last digits of any number.
+14. Write a Java program to calculate sum of digits of any number
+15. Write a Java program to calculate product of digits of any number.
+16. Write a Java program to enter any number and print its reverse.
+17. Write a Java program to enter any number and check whether the number is palindrome or
+not.
+18. Write a Java program to find frequency of each digit in a given integer.
+19. Write a Java program to enter any number and print it in words.
+20. Write a Java program to find power of any number using for loop.
+21. Write a Java program to enter any number and print all factors of the number.
+22. Write a Java program to enter any number and calculate its factorial.
+23. Write a Java program to check whether a number is Prime number or not.
+24. Write a Java program to print all Prime numbers between 1 to n.
+25. Write a Java program to find sum of all prime numbers between 1 to n.
+
+
